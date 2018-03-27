@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1492114737 source:c:\users\a\documents\c++\lab8\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<iomanip>
+
